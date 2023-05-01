@@ -9,11 +9,11 @@ body {
     color: rgb(224, 224, 224);
     font-family: 'Open Sans', sans-serif;
 }
-/* .spinner{
+.spinner{
     position: absolute;
     top: 40%;
     left: 43%
-} */
+}
 .container {
     width: 100%;
     height: 100vh;
